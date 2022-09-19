@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<layoutype>list</layoutype> 
+ 
+<channels>
+<channel>
+    <name>[I][B][COLOR red]Portugal[/COLOR][/I][/B]</name>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png</thumbnail>
+    <externallink>https://pastebin.com/raw/5mRaQjLM</externallink>
+    <fanart>https://bit.ly/2SOqDwk</fanart>
+    <info></info>
+</channel>
+</channels>
+
+--------------------------------------------------------------------------
+
+<channels>
+<channel>
+    <name>[I][B][COLOR blue]França[/COLOR][/I][/B]</name>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png</thumbnail>
+	<externallink>https://pastebin.com/raw/rmAC0c40</externallink>
+    <fanart>https://bit.ly/2SOqDwk</fanart>
+    <info></info>
+</channel>
+</channels>
+
+
+--------------------------------------------------------------------------
+
+<channels>
+<channel>
+    <name>[I][B][COLOR green]Italia[/COLOR][/I][/B]</name>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/800px-Flag_of_Italy.svg.png</thumbnail>
+	<externallink>https://pastebin.com/raw/Xic3bPGk</externallink>
+    <fanart>https://bit.ly/2SOqDwk</fanart>
+    <info></info>
+</channel>
+</channels>
+
+--------------------------------------------------------------------------
+
+<channels>
+<channel>
+    <name>[I][B][COLOR pink]Corona Virus[/COLOR][/I][/B]</name>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/597px-SARS-CoV-2_without_background.png</thumbnail>
+    <externallink>https://pastebin.com/raw/019v2yXC</externallink>
+    <fanart>https://bit.ly/2SOqDwk</fanart>
+    <info></info>
+</channel>
+</channels>
+
+--------------------------------------------------------------------------
+
+<channels>
+<channel>
+    <name>[I][B][COLOR orange]Filmes[/COLOR][/I][/B]</name>
+    <thumbnail>https://i.pinimg.com/736x/54/51/75/54517514b7e9c8c21cb1526176c30732.jpg</thumbnail>
+    <externallink>https://pastebin.com/raw/PwcBPGBE</externallink>
+    <fanart>https://bit.ly/2SOqDwk</fanart>
+    <info></info>
+</channel>
+</channels>
+
+--------------------------------------------------------------------------
+
+<channels>
+<channel>
+    <name>[I][B][COLOR rose]XXX[/COLOR][/I][/B]</name>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f9/Stop.png</thumbnail>
+    <externallink>https://pastebin.com/raw/npu3NGs1</externallink>
+    <fanart>https://bit.ly/2SOqDwk</fanart>
+    <info></info>
+</channel>
+</channels>
