@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="true"?>
 
--<channels>
+<channels>
 
 
--<channel>
+<channel>
 
 <name>[B][COLOR lime][/COLOR] [COLOR yellow] === ADDON equilibrium ===[/COLOR][/B]</name>
 
@@ -18,7 +18,7 @@
 </channel>
 
 
--<channel>
+<channel>
 
 <name>[B][COLOR lime]equilibrium [/COLOR] * [COLOR white]TV AO VIVO [/COLOR][/B]</name>
 
@@ -33,7 +33,7 @@
 </channel>
 
 
--<channel>
+<channel>
 
 <name>[B][COLOR lime]equilibrium [/COLOR] * [COLOR white]LANÇAMENTOS [/COLOR][/B]</name>
 
