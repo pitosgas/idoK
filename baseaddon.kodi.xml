@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="true"?><channels>
 <channels>
- <channel>
-<name>[B][COLOR lime][/COLOR] [COLOR yellow] === ADDON Porretas ===[/COLOR][/B]</name>
+<channel>
+<name>[B][COLOR lime][/COLOR] [COLOR yellow] === ADDON PORRETAS ===[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/LsIU7jk.png</thumbnail>
 <fanart>https://i.imgur.com/msft5dW.png</fanart>
 <info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Porretas . [/COLOR]</info>
@@ -21,4 +21,5 @@ thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Porretas [/COLOR]</info>
 <externallink>https://gitlab.com/flechanegra/addon/-/raw/main/teste22.xml</externallink>
 </channel>
+
 </channels>
