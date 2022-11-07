@@ -196,6 +196,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=H
 plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69016.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="",RTP 1 HD PT
 plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68955.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="",RTP 1 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68956.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="",RTP 1 PT ??
 plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=60000&url=http://viafnatt.tv:2095/live/Thomas/1234/68956.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="",RTP 1 PT m3u8
