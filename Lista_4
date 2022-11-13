@@ -1,0 +1,102 @@
+#EXTM3U
+
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58777
+#EXTINF:-1,RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58778
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58779
+#EXTINF:-1,RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58780
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58795
+#EXTINF:-1,SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58796
+#EXTINF:-1,TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58788
+#EXTINF:-1,TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58789
+#EXTINF:-1,TVI 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58790
+#EXTINF:-1,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58797
+#EXTINF:-1,SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58798
+#EXTINF:-1,TVI REALITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58847
+#EXTINF:-1,SIC CARAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58800
+#EXTINF:-1,SIC CARAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58799
+#EXTINF:-1,SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58802
+#EXTINF:-1,SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58803
+#EXTINF:-1,SIC MULHER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58804
+#EXTINF:-1,CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58805
+#EXTINF:-1,CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58806
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58781
+#EXTINF:-1,RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58782
+#EXTINF:-1,|PT| TV RECORD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/139895
+#EXTINF:-1,|.PT.S.| A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58869
+#EXTINF:-1,|.PT.S.| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58871
+#EXTINF:-1,|.PT.S.| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58872
+#EXTINF:-1,|.PT.S.| BENFICA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58876
+#EXTINF:-1,|.PT.S.| BENFICA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58877
+#EXTINF:-1,BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/95819
+#EXTINF:-1,|.PT.S.| SPORT TV+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58878
+#EXTINF:-1,|.PT.S.| SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58879
+#EXTINF:-1,|.PT.S.| SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/31368
+#EXTINF:-1,|.PT.S.| SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58881
+#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58880
+#EXTINF:-1,|.PT.S.| SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58883
+#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58882
+#EXTINF:-1,|.PT.S.| SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58885
+#EXTINF:-1,|.PT.S.| SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58884
+#EXTINF:-1,|.PT.S.| SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58887
+#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58886
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58888
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58889
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58890
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58891
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58892
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58893
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58819
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58820
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58853
+#EXTINF:-1,TRAVEL CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58854
+#EXTINF:-1,CANAL HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58855
