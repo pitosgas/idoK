@@ -1,102 +1,385 @@
 #EXTM3U
 
+
 #EXTINF:-1,RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58777
-#EXTINF:-1,RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58778
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87304.ts
 #EXTINF:-1,RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58779
-#EXTINF:-1,RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87305.ts
 #EXTINF:-1,SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58795
-#EXTINF:-1,SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58796
-#EXTINF:-1,TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58788
-#EXTINF:-1,TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58789
-#EXTINF:-1,TVI 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58790
-#EXTINF:-1,SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58797
-#EXTINF:-1,SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58798
-#EXTINF:-1,TVI REALITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58847
-#EXTINF:-1,SIC CARAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58800
-#EXTINF:-1,SIC CARAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58799
-#EXTINF:-1,SIC RADICAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58802
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87306.ts
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87307.ts
+#EXTINF:-1,PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87308.ts
+#EXTINF:-1,CANAL 180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87309.ts
+#EXTINF:-1,RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87310.ts
+#EXTINF:-1,SIC OPTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87311.ts
 #EXTINF:-1,SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58803
-#EXTINF:-1,SIC MULHER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58804
-#EXTINF:-1,CMTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58805
-#EXTINF:-1,CMTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58806
-#EXTINF:-1,RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58781
-#EXTINF:-1,RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58782
-#EXTINF:-1,|PT| TV RECORD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/139895
-#EXTINF:-1,|.PT.S.| A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58869
-#EXTINF:-1,|.PT.S.| EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58871
-#EXTINF:-1,|.PT.S.| EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58872
-#EXTINF:-1,|.PT.S.| BENFICA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58876
-#EXTINF:-1,|.PT.S.| BENFICA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58877
-#EXTINF:-1,BENFICA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/95819
-#EXTINF:-1,|.PT.S.| SPORT TV+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58878
-#EXTINF:-1,|.PT.S.| SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58879
-#EXTINF:-1,|.PT.S.| SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/31368
-#EXTINF:-1,|.PT.S.| SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58881
-#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58880
-#EXTINF:-1,|.PT.S.| SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58883
-#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58882
-#EXTINF:-1,|.PT.S.| SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58885
-#EXTINF:-1,|.PT.S.| SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58884
-#EXTINF:-1,|.PT.S.| SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58887
-#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58886
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58888
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58889
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58890
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58891
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58892
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58893
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87312.ts
+#EXTINF:-1,GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87313.ts
+#EXTINF:-1,GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87314.ts
+#EXTINF:-1,TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87315.ts
+#EXTINF:-1,TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87316.ts
+#EXTINF:-1,TVI REALITY * MOSAICO *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87317.ts
+#EXTINF:-1,TVI REALITY CAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87318.ts
+#EXTINF:-1,TVI REALITY CAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87319.ts
+#EXTINF:-1,TVI REALITY CAM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87320.ts
+#EXTINF:-1,TVI REALITY CAM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87321.ts
+#EXTINF:-1,RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87322.ts
+#EXTINF:-1,CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87323.ts
+#EXTINF:-1,SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87324.ts
+#EXTINF:-1,MTV Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87325.ts
+#EXTINF:-1,FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87326.ts
+#EXTINF:-1,CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87327.ts
+#EXTINF:-1,CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87328.ts
+#EXTINF:-1,SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87329.ts
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87330.ts
+#EXTINF:-1,TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87331.ts
+#EXTINF:-1,RTP 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87286.ts
+#EXTINF:-1,SIC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87287.ts
+#EXTINF:-1,TVI ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87288.ts
+#EXTINF:-1,PORTO CANAL ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87289.ts
+#EXTINF:-1,SIC MULHER  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87290.ts
+#EXTINF:-1,GLOBO ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87291.ts
+#EXTINF:-1,GLOBO NOW  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87292.ts
+#EXTINF:-1,TVI FICCAO ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87293.ts
+#EXTINF:-1,TVI REALITY  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87294.ts
+#EXTINF:-1,SIC RADICAL ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87295.ts
+#EXTINF:-1,BLAZE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87296.ts
+#EXTINF:-1,SIC CARAS  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87297.ts
+#EXTINF:-1,TV RECORD ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87298.ts
+#EXTINF:-1,FOOD NETWORK ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87299.ts
+#EXTINF:-1,TRAVEL CHANNEL  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87300.ts
+#EXTINF:-1,RTP INTERNACIONAL  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87301.ts
+#EXTINF:-1,SIC INTERNACIONAL  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87302.ts
+#EXTINF:-1,ZAP VIVA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87303.ts
+#EXTINF:-1,TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87332.ts
+#EXTINF:-1,FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87333.ts
+#EXTINF:-1,TVI INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87334.ts
+#EXTINF:-1,TCV INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87335.ts
+#EXTINF:-1,CUBAVISIÐN INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87336.ts
+#EXTINF:-1,BBC ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87337.ts
+#EXTINF:-1,CNBC EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87338.ts
+#EXTINF:-1,DEUTSCHE WELLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87339.ts
+#EXTINF:-1,TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87340.ts
+#EXTINF:-1,TVE INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87341.ts
+#EXTINF:-1,ICONCERTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87342.ts
+#EXTINF:-1,AMC CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87343.ts
+#EXTINF:-1,AMC BREAK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87344.ts
+#EXTINF:-1,NOS STUDIOS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87345.ts
+#EXTINF:-1,HOLLYWOOD ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87346.ts
+#EXTINF:-1,TVCINE TOP ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87347.ts
+#EXTINF:-1,TVCINE EDITION ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87348.ts
+#EXTINF:-1,TVCINE EMOTION ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87349.ts
+#EXTINF:-1,TVCINE ACTION ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87350.ts
+#EXTINF:-1,FOX MOVIES ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87351.ts
+#EXTINF:-1,CINEMUNDO ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87352.ts
+#EXTINF:-1,AMC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87353.ts
+#EXTINF:-1,AXN MOVIES ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87354.ts
+#EXTINF:-1,FOX ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87355.ts
+#EXTINF:-1,FOX LIFE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87356.ts
+#EXTINF:-1,FOX CRIME ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87357.ts
+#EXTINF:-1,FOX COMEDY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87358.ts
+#EXTINF:-1,AXN ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87359.ts
+#EXTINF:-1,AXN WHITE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87360.ts
+#EXTINF:-1,SYFY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87361.ts
+#EXTINF:-1,NOS STUDIOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87362.ts
 #EXTINF:-1,HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58819
-#EXTINF:-1,HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58820
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58853
-#EXTINF:-1,TRAVEL CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58854
-#EXTINF:-1,CANAL HISTORIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]PORRETAS[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://152.89.61.240:25443/ehouat5/ravo265578/58855
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87363.ts
+#EXTINF:-1,TVCINE TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87364.ts
+#EXTINF:-1,TVCINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87365.ts
+#EXTINF:-1,TVCINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87366.ts
+#EXTINF:-1,TVCINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87367.ts
+#EXTINF:-1,FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87368.ts
+#EXTINF:-1,CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87369.ts
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87370.ts
+#EXTINF:-1,AXN MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87371.ts
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87372.ts
+#EXTINF:-1,FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87373.ts
+#EXTINF:-1,FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87374.ts
+#EXTINF:-1,FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87375.ts
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87376.ts
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87377.ts
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87378.ts
+#EXTINF:-1,Canal Panda ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87379.ts
+#EXTINF:-1,SIC K ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87380.ts
+#EXTINF:-1,LOLLY KIDS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87381.ts
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87382.ts
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87383.ts
+#EXTINF:-1,Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87384.ts
+#EXTINF:-1,PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87385.ts
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87386.ts
+#EXTINF:-1,DISNEY +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87387.ts
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87388.ts
+#EXTINF:-1,NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87389.ts
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87390.ts
+#EXTINF:-1,SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87391.ts
+#EXTINF:-1,JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87392.ts
+#EXTINF:-1,A BOLA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87393.ts
+#EXTINF:-1,CANAL 11 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87394.ts
+#EXTINF:-1,SPORT TV + ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87395.ts
+#EXTINF:-1,BTV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87396.ts
+#EXTINF:-1,SPORTING TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87397.ts
+#EXTINF:-1,SPORT TV 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87398.ts
+#EXTINF:-1,SPORT TV 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87399.ts
+#EXTINF:-1,SPORT TV 3 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87400.ts
+#EXTINF:-1,SPORT TV 4 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87401.ts
+#EXTINF:-1,SPORT TV 5 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87402.ts
+#EXTINF:-1,SPORT TV 6 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87403.ts
+#EXTINF:-1,SPORT TV NBA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87404.ts
+#EXTINF:-1,ELEVEN SPORTS 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87405.ts
+#EXTINF:-1,ELEVEN SPORTS 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87406.ts
+#EXTINF:-1,ELEVEN SPORTS 3 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87407.ts
+#EXTINF:-1,ELEVEN SPORTS 4 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87408.ts
+#EXTINF:-1,ELEVEN SPORTS 5 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87409.ts
+#EXTINF:-1,ELEVEN SPORTS 6 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87410.ts
+#EXTINF:-1,EUROSPORT 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87411.ts
+#EXTINF:-1,EUROSPORT 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87412.ts
+#EXTINF:-1,RedBull TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87413.ts
+#EXTINF:-1,A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87414.ts
+#EXTINF:-1,SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87415.ts
+#EXTINF:-1,BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87416.ts
+#EXTINF:-1,SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87417.ts
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87418.ts
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87419.ts
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87420.ts
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87421.ts
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87422.ts
+#EXTINF:-1,ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87423.ts
+#EXTINF:-1,ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87424.ts
+#EXTINF:-1,ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87425.ts
+#EXTINF:-1,ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87426.ts
+#EXTINF:-1,ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87427.ts
+#EXTINF:-1,ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87428.ts
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87429.ts
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87430.ts
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87431.ts
+#EXTINF:-1,MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87432.ts
+#EXTINF:-1,RTP ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87433.ts
+#EXTINF:-1,EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87434.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87435.ts
+#EXTINF:-1,ID INVESTIGATION DISCOVERY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87436.ts
+#EXTINF:-1,24 KITCHEN ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87437.ts
+#EXTINF:-1,CACA E PESCA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87438.ts
+#EXTINF:-1,CASA E COZINHA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87439.ts
+#EXTINF:-1,SIC NOTICIAS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87440.ts
+#EXTINF:-1,RTP 3 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87441.ts
+#EXTINF:-1,TVI 24  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87442.ts
+#EXTINF:-1,CMTV  ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87443.ts
+#EXTINF:-1,DISCOVERY CHANNEL [Backups]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87444.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87445.ts
+#EXTINF:-1,CANAL HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87446.ts
+#EXTINF:-1,ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87447.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87448.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87449.ts
+#EXTINF:-1,TLC - TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87450.ts
+#EXTINF:-1,KURIAKOS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87451.ts
+#EXTINF:-1,CACAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87452.ts
+#EXTINF:-1,TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87453.ts
+#EXTINF:-1,FATIMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87454.ts
+#EXTINF:-1,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87455.ts
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87456.ts
+#EXTINF:-1,TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87457.ts
+#EXTINF:-1,CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87458.ts
+#EXTINF:-1,RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87459.ts
+#EXTINF:-1,RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87460.ts
+#EXTINF:-1,ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87461.ts
+#EXTINF:-1,RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87462.ts
+#EXTINF:-1,EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87463.ts
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87464.ts
+#EXTINF:-1,BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87465.ts
+#EXTINF:-1,TVE Internacional 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87466.ts
+#EXTINF:-1,MEZZO LIVE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87467.ts
+#EXTINF:-1,ALMA LUSA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87468.ts
+#EXTINF:-1,TRACE BRAZUCA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87469.ts
+#EXTINF:-1,TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87470.ts
+#EXTINF:-1,TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87471.ts
+#EXTINF:-1,MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87472.ts
+#EXTINF:-1,MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87473.ts
+#EXTINF:-1,AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87474.ts
+#EXTINF:-1,MEZZO Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87475.ts
+#EXTINF:-1,MTV 00s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://destiny4k.com:2086/live/darkside/t2z7marsRY/87476.ts
